@@ -9,7 +9,5 @@ Once at the correct project folder, run the following command:
 
 `npm run start`
 
-Enjoy!
-
 # credit where it's due
 Leaflet © 2010–2023 Volodymyr Agafonkin.
