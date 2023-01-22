@@ -1,4 +1,4 @@
-# electron_map
+# Arguably Useless Weather Forecast
 User interface for Arguably Useless Weather Forecast stand-alone application.
 To run this, make sure to have `node.js` installed and, when downloading or cloning this repository, download electron by running the following command on the command line or prompt (i.e. PowerShell)...
 `npm install electron --save-dev`
